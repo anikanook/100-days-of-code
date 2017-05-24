@@ -6,6 +6,12 @@
 
 **Thoughts:** Excited to finally tackle some things on my to-do list.  Wish I had started this a week or more ago since I have actually been on a coding streak for since then.  Oh well.  Time to "get credit" for it, so to speak.  
 
+### Day 2: May 24, 2017
+
+**Today's Progress**: More Codecademy tutorials on JavaScript and PHP.
+
+**Thoughts:** I feel a bit fuzzy brained and not too excited about what I did today, though I did do a lot.  I read a couple of articles and listened to a TED talk on computational thinking.  I'm really into learning the foundational theory of programming right now.  I'll probably finish the last few exercises in the Programming Foundations: Fundamentals course (taught by Simon Allardice on Lynda.com) tonight.  That course has really propelled me forward toward stronger JavaScript and PHP skills.  But I'm stuck on a do-while loop that Codecademy is accepting as correct, but not running. Argh!   
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
