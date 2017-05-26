@@ -14,7 +14,7 @@
 
 ### Day 3: May 25, 2017
 
-**Today's Progress**: PHP loops and functions.
+**Today's Progress**: PHP loops and functions and some blog updates.
 
 **Thoughts:** Looking ahead to the holiday weekend and strategizing how I can get some small wins and still code every day.  I'm thinking a tribute page on codepen and copying some codepens that I like.
 
