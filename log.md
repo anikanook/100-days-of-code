@@ -12,6 +12,12 @@
 
 **Thoughts:** I feel a bit fuzzy brained and not too excited about what I did today, though I did do a lot.  I read a couple of articles and listened to a TED talk on computational thinking.  I'm really into learning the foundational theory of programming right now.  I'll probably finish the last few exercises in the Programming Foundations: Fundamentals course (taught by Simon Allardice on Lynda.com) tonight.  That course has really propelled me forward toward stronger JavaScript and PHP skills.  But I'm stuck on a do-while loop that Codecademy is accepting as correct, but not running. Argh!   
 
+### Day 3: May 25, 2017
+
+**Today's Progress**: PHP loops and functions.
+
+**Thoughts:** Looking ahead to the holiday weekend and strategizing how I can get some small wins and still code every day.  I'm thinking a tribute page on codepen and copying some codepens that I like.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
