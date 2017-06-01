@@ -18,6 +18,13 @@
 
 **Thoughts:** Looking ahead to the holiday weekend and strategizing how I can get some small wins and still code every day.  I'm thinking a tribute page on codepen and copying some codepens that I like.
 
+### Days 4 and 5: May 30-31, 2017
+
+**Today's Progress**: Object oriented programming in PHP + advanced arrays and maps.
+
+**Thoughts:** I've turned to Codecademy several times to augment a course of study, but have never fully completed a Codecademy course until now. I'm so happy! It feels great to have gone through the basics in a language to get an overview. I feel ready to tackle them each in more depth.  I'm not sure what's next for PHP.  I can move on to Drupal-specific PHP practice or look at other tutorials.
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
