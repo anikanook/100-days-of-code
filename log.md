@@ -24,6 +24,8 @@
 
 **Thoughts:** I've turned to Codecademy several times to augment a course of study, but have never fully completed a Codecademy course until now. I'm so happy! It feels great to have gone through the basics in a language to get an overview. I feel ready to tackle them each in more depth.  I'm not sure what's next for PHP.  I can move on to Drupal-specific PHP practice or look at other tutorials.
 
+**Link to work:** [Codecademy Badges](https://www.codecademy.com/users/anikanook/achievements)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
